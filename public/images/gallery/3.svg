@@ -1,0 +1,20 @@
+<svg width="1000" height="1250" viewBox="0 0 1000 1250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g23" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f271a" />
+      <stop offset="55%" stop-color="#204731" />
+      <stop offset="100%" stop-color="#3a6f4f" />
+    </linearGradient>
+    <pattern id="grid23" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#faf6ee" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#g23)" />
+  <rect width="1000" height="1250" fill="url(#grid23)" />
+  <g transform="translate(500 605) scale(4.545454545454546)" fill="none" stroke="#f3e4bb" stroke-width="1.4" opacity="0.85">
+        <path d="M -40 46 V 0 A 40 40 0 0 1 40 0 V 46" />
+        <path d="M -52 46 H 52" />
+      </g>
+  <text x="50%" y="825" text-anchor="middle" font-family="Georgia, serif" font-size="56" fill="#faf6ee" letter-spacing="2">GREENWOOD</text>
+  <text x="50%" y="881.25" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#f3e4bb" letter-spacing="4">GALLERY · 03</text>
+</svg>

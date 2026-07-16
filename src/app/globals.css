@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+:root {
+  --color-ivory: #faf6ee;
+  --color-ivory-dark: #f2ead9;
+  --color-ink: #1c1f1b;
+
+  --color-forest-50: #eef3ee;
+  --color-forest-100: #d3e2d5;
+  --color-forest-200: #a9c6ad;
+  --color-forest-300: #7ba888;
+  --color-forest-400: #558a68;
+  --color-forest-500: #3a6f4f;
+  --color-forest-600: #2b5a40;
+  --color-forest-700: #204731;
+  --color-forest-800: #163524;
+  --color-forest-900: #0f271a;
+  --color-forest-950: #091a11;
+
+  --color-gold-50: #fbf6e9;
+  --color-gold-100: #f3e4bb;
+  --color-gold-200: #ecd99a;
+  --color-gold-300: #ddb867;
+  --color-gold-400: #cfa348;
+  --color-gold-500: #bd8e2f;
+  --color-gold-600: #a87b24;
+  --color-gold-700: #86611c;
+  --color-gold-800: #644918;
+  --color-gold-900: #423110;
+}
+
+@theme inline {
+  --color-ivory: var(--color-ivory);
+  --color-ivory-dark: var(--color-ivory-dark);
+  --color-ink: var(--color-ink);
+
+  --color-forest-50: var(--color-forest-50);
+  --color-forest-100: var(--color-forest-100);
+  --color-forest-200: var(--color-forest-200);
+  --color-forest-300: var(--color-forest-300);
+  --color-forest-400: var(--color-forest-400);
+  --color-forest-500: var(--color-forest-500);
+  --color-forest-600: var(--color-forest-600);
+  --color-forest-700: var(--color-forest-700);
+  --color-forest-800: var(--color-forest-800);
+  --color-forest-900: var(--color-forest-900);
+  --color-forest-950: var(--color-forest-950);
+
+  --color-gold-50: var(--color-gold-50);
+  --color-gold-100: var(--color-gold-100);
+  --color-gold-200: var(--color-gold-200);
+  --color-gold-300: var(--color-gold-300);
+  --color-gold-400: var(--color-gold-400);
+  --color-gold-500: var(--color-gold-500);
+  --color-gold-600: var(--color-gold-600);
+  --color-gold-700: var(--color-gold-700);
+  --color-gold-800: var(--color-gold-800);
+  --color-gold-900: var(--color-gold-900);
+
+  --font-display: var(--font-playfair);
+  --font-sans: var(--font-inter);
+}
+
+body {
+  background: var(--color-ivory);
+  color: var(--color-ink);
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+.font-display {
+  font-family: var(--font-display), Georgia, serif;
+}
+
+::selection {
+  background: var(--color-gold-300);
+  color: var(--color-forest-900);
+}
+
+.text-balance {
+  text-wrap: balance;
+}

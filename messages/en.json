@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "title": "Greenwood Apartments Odessa — Luxury Apartments in the Heart of Odessa",
+    "description": "Greenwood Apartments — luxury apartments in the heart of Odessa. Online booking and payment, panoramic views, concierge service."
+  },
+  "nav": {
+    "home": "Home",
+    "rooms": "Apartments",
+    "amenities": "Amenities",
+    "gallery": "Gallery",
+    "location": "Location",
+    "contacts": "Contact",
+    "bookNow": "Book Now"
+  },
+  "hero": {
+    "eyebrow": "Odessa · Luxury Apartments",
+    "title": "Greenwood Apartments",
+    "subtitle": "Quiet luxury in Odessa's greenest quarter — steps from the sea and Deribasovskaya Street",
+    "cta": "Explore Apartments",
+    "ctaSecondary": "Book a Room",
+    "search": {
+      "checkIn": "Check-in",
+      "checkOut": "Check-out",
+      "guests": "Guests",
+      "guestsOne": "1 guest",
+      "guestsFew": "{count} guests",
+      "guestsMany": "{count} guests",
+      "submit": "Check Availability"
+    },
+    "scroll": "Scroll down"
+  },
+  "about": {
+    "eyebrow": "About Us",
+    "title": "A home among the greenery, in the heart of the city",
+    "text": "Greenwood Apartments is a collection of eight premium residences in Odessa's historic quarter, where 19th-century architecture meets modern comfort. We created a space for those who value quiet, privacy and attention to detail — from natural finishing materials to a personal concierge who resolves any request within the day.",
+    "stats": [
+      { "value": "8", "label": "exclusive apartments" },
+      { "value": "350 m", "label": "to the sea" },
+      { "value": "24/7", "label": "concierge service" },
+      { "value": "9.8", "label": "guest rating" }
+    ]
+  },
+  "rooms": {
+    "eyebrow": "Apartments",
+    "title": "Choose your apartment",
+    "subtitle": "Every room is individually designed — natural wood, linen textiles and panoramic windows",
+    "from": "from",
+    "perNight": "/ night",
+    "area": "m²",
+    "guests": "guests",
+    "bookButton": "Book Now",
+    "detailsButton": "Details",
+    "items": [
+      {
+        "id": "studio",
+        "name": "Studio Garden",
+        "description": "A cozy studio overlooking the courtyard garden, with a kitchenette and a terrace for morning coffee.",
+        "price": 95,
+        "area": 32,
+        "guests": 2,
+        "amenities": ["Wi-Fi", "Kitchen", "Terrace", "Air conditioning"]
+      },
+      {
+        "id": "one-bedroom",
+        "name": "One Bedroom Deluxe",
+        "description": "A spacious bedroom, separate living room and a fully equipped kitchen — perfect for extended stays.",
+        "price": 140,
+        "area": 54,
+        "guests": 3,
+        "amenities": ["Wi-Fi", "Kitchen", "Washing machine", "Smart TV"]
+      },
+      {
+        "id": "suite",
+        "name": "Executive Suite",
+        "description": "Apartment overlooking the dome of the Transfiguration Cathedral, with a spa bathroom and a dedicated workspace.",
+        "price": 210,
+        "area": 72,
+        "guests": 4,
+        "amenities": ["Wi-Fi", "Spa bath", "Panoramic windows", "Minibar"]
+      },
+      {
+        "id": "penthouse",
+        "name": "Greenwood Penthouse",
+        "description": "A two-level top-floor penthouse with a private terrace and sea views — our flagship room.",
+        "price": 340,
+        "area": 110,
+        "guests": 5,
+        "amenities": ["Wi-Fi", "Private terrace", "Jacuzzi", "Butler service"]
+      }
+    ]
+  },
+  "amenities": {
+    "eyebrow": "Amenities",
+    "title": "Everything for your comfort",
+    "items": [
+      { "title": "24/7 Concierge", "description": "Transfers, restaurants, tours — arranged any time of day" },
+      { "title": "Private Parking", "description": "Secure parking in the residence's inner courtyard" },
+      { "title": "High-Speed Wi-Fi", "description": "Fiber internet up to 500 Mbps in every apartment" },
+      { "title": "Breakfast in Room", "description": "Fresh pastries and local farm produce every morning" },
+      { "title": "Spa & Massage", "description": "Partner spa center a 5-minute walk away" },
+      { "title": "Airport Transfer", "description": "We'll meet you and drive you in a comfortable car" },
+      { "title": "Security", "description": "24-hour CCTV and on-site security" },
+      { "title": "Pet Friendly", "description": "Your pets are welcome by prior arrangement" }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "The Greenwood atmosphere"
+  },
+  "testimonials": {
+    "eyebrow": "Reviews",
+    "title": "What our guests say",
+    "items": [
+      {
+        "name": "Marina K.",
+        "origin": "Kyiv",
+        "text": "The best apartments I've stayed in in Odessa. Service level of a five-star hotel with the warmth of a home.",
+        "rating": 5
+      },
+      {
+        "name": "Thomas R.",
+        "origin": "Berlin",
+        "text": "Immaculate design, incredibly quiet despite being in the city center. The concierge team went above and beyond.",
+        "rating": 5
+      },
+      {
+        "name": "Olena V.",
+        "origin": "Lviv",
+        "text": "The penthouse exceeded every expectation — the morning sea view is unforgettable. We'll definitely be back.",
+        "rating": 5
+      }
+    ]
+  },
+  "location": {
+    "eyebrow": "Location",
+    "title": "In the heart of historic Odessa",
+    "text": "We're tucked in a quiet lane two minutes from Primorsky Boulevard and the Opera House, 350 meters from the beach — surrounded by the city's best restaurants, galleries and boutiques.",
+    "address": "10 Havanna St, Odessa, Ukraine",
+    "mapCta": "Open in Google Maps"
+  },
+  "booking": {
+    "eyebrow": "Booking",
+    "title": "Book your apartment online",
+    "subtitle": "Check availability and pay for your booking directly — safely and instantly, through our YieldPlanet booking engine.",
+    "poweredBy": "Booking engine powered by",
+    "notConfigured": {
+      "title": "Booking engine is being connected",
+      "text": "The YieldPlanet Booking Engine widget will appear here as soon as the hotel account is connected. Meanwhile you can leave a request and we'll confirm your booking manually.",
+      "cta": "Send a Booking Request"
+    },
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "checkIn": "Check-in",
+      "checkOut": "Check-out",
+      "guests": "Number of guests",
+      "room": "Apartment",
+      "message": "Message",
+      "submit": "Send Request",
+      "success": "Thank you! We'll contact you within an hour to confirm your booking."
+    }
+  },
+  "footer": {
+    "tagline": "Quiet luxury in the heart of Odessa",
+    "contactsTitle": "Contact",
+    "phone": "+380 48 123 45 67",
+    "email": "stay@greenwood-odessa.com",
+    "address": "10 Havanna St, Odessa, Ukraine",
+    "linksTitle": "Navigation",
+    "socialTitle": "Follow us",
+    "rights": "© {year} Greenwood Apartments Odessa. All rights reserved."
+  },
+  "header": {
+    "bookNow": "Book Now"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "Sorry, this page doesn't exist.",
+    "cta": "Back to home"
+  }
+}
