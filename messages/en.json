@@ -35,7 +35,7 @@
     "text": "Greenwood Apartments is a modern premium complex on the first line of the sea, surrounded by a park. We created a space for those who value quiet, privacy and attention to detail — panoramic windows overlooking the coast, a private pool and lounge area, and a personal concierge who resolves any request within the day.",
     "stats": [
       { "value": "1st line", "label": "to the sea" },
-      { "value": "16", "label": "floors with sea views" },
+      { "value": "18", "label": "floors with sea views" },
       { "value": "24/7", "label": "concierge service" },
       { "value": "9.8", "label": "guest rating" }
     ]
@@ -134,8 +134,8 @@
   "location": {
     "eyebrow": "Location",
     "title": "Right on the seafront",
-    "text": "The complex sits on the first line of the sea, surrounded by a green park — with a private pool and a lounge area by the water. The promenade, beach and the coast's best restaurants are all nearby.",
-    "address": "Odessa, Ukraine",
+    "text": "The complex sits on the first line of the sea on French Boulevard — one of Odessa's greenest and most prestigious seafront avenues, with a private pool and a lounge area by the water. The beach and the coast's best restaurants are all nearby.",
+    "address": "85/5 French Boulevard, Odessa, Ukraine",
     "mapCta": "Open in Google Maps"
   },
   "booking": {
@@ -166,7 +166,7 @@
     "contactsTitle": "Contact",
     "phone": "+380 48 123 45 67",
     "email": "stay@greenwood-odessa.com",
-    "address": "Odessa, Ukraine",
+    "address": "85/5 French Boulevard, Odessa, Ukraine",
     "linksTitle": "Navigation",
     "socialTitle": "Follow us",
     "rights": "© {year} Greenwood Apartments Odessa. All rights reserved."
