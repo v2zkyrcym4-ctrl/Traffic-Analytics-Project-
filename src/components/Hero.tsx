@@ -25,7 +25,7 @@ export function Hero() {
   return (
     <section className="relative flex min-h-[92vh] items-end overflow-hidden">
       <Image
-        src="/images/hero.svg"
+        src="/images/hero.jpg"
         alt="Greenwood Apartments Odessa"
         fill
         priority

@@ -5,11 +5,11 @@ export const siteConfig = {
   phoneHref: "tel:+380481234567",
   email: "stay@greenwood-odessa.com",
   address: {
-    ru: "ул. Гаванная, 10, Одесса, Украина",
-    en: "10 Havanna St, Odessa, Ukraine",
-    ua: "вул. Гаванна, 10, Одеса, Україна",
+    ru: "Одесса, Украина",
+    en: "Odessa, Ukraine",
+    ua: "Одеса, Україна",
   },
-  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Havanna+St+10+Odessa+Ukraine",
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Odessa+seafront+Ukraine",
   social: {
     instagram: "https://instagram.com/greenwood.odessa",
     facebook: "https://facebook.com/greenwood.odessa",

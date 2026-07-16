@@ -5,8 +5,17 @@ import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { X, ChevronLeft, ChevronRight } from "lucide-react";
 
-const COUNT = 8;
-const images = Array.from({ length: COUNT }, (_, i) => `/images/gallery/${i + 1}.svg`);
+const images = [
+  "/images/hero.jpg",
+  "/images/pool.jpg",
+  "/images/about.webp",
+  "/images/gallery/4.svg",
+  "/images/gallery/5.svg",
+  "/images/gallery/6.svg",
+  "/images/gallery/7.svg",
+  "/images/gallery/8.svg",
+];
+const COUNT = images.length;
 
 export function Gallery() {
   const t = useTranslations("gallery");

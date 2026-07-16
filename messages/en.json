@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Greenwood Apartments Odessa — Luxury Apartments in the Heart of Odessa",
-    "description": "Greenwood Apartments — luxury apartments in the heart of Odessa. Online booking and payment, panoramic views, concierge service."
+    "title": "Greenwood Apartments Odessa — Luxury Beachfront Apartments",
+    "description": "Greenwood Apartments — luxury first-line beachfront apartments in Odessa. Online booking and payment, pool, panoramic sea views, concierge service."
   },
   "nav": {
     "home": "Home",
@@ -13,9 +13,9 @@
     "bookNow": "Book Now"
   },
   "hero": {
-    "eyebrow": "Odessa · Luxury Apartments",
+    "eyebrow": "Odessa · First Line Beachfront",
     "title": "Greenwood Apartments",
-    "subtitle": "Quiet luxury in Odessa's greenest quarter — steps from the sea and Deribasovskaya Street",
+    "subtitle": "Luxury apartments on the seafront — panoramic coastal views, a private pool and lush green grounds",
     "cta": "Explore Apartments",
     "ctaSecondary": "Book a Room",
     "search": {
@@ -31,11 +31,11 @@
   },
   "about": {
     "eyebrow": "About Us",
-    "title": "A home among the greenery, in the heart of the city",
-    "text": "Greenwood Apartments is a collection of eight premium residences in Odessa's historic quarter, where 19th-century architecture meets modern comfort. We created a space for those who value quiet, privacy and attention to detail — from natural finishing materials to a personal concierge who resolves any request within the day.",
+    "title": "A home on the seafront, surrounded by greenery",
+    "text": "Greenwood Apartments is a modern premium complex on the first line of the sea, surrounded by a park. We created a space for those who value quiet, privacy and attention to detail — panoramic windows overlooking the coast, a private pool and lounge area, and a personal concierge who resolves any request within the day.",
     "stats": [
-      { "value": "8", "label": "exclusive apartments" },
-      { "value": "350 m", "label": "to the sea" },
+      { "value": "1st line", "label": "to the sea" },
+      { "value": "16", "label": "floors with sea views" },
       { "value": "24/7", "label": "concierge service" },
       { "value": "9.8", "label": "guest rating" }
     ]
@@ -43,7 +43,7 @@
   "rooms": {
     "eyebrow": "Apartments",
     "title": "Choose your apartment",
-    "subtitle": "Every room is individually designed — natural wood, linen textiles and panoramic windows",
+    "subtitle": "Every room is individually designed — natural wood, linen textiles and panoramic sea-view windows",
     "from": "from",
     "perNight": "/ night",
     "area": "m²",
@@ -54,7 +54,7 @@
       {
         "id": "studio",
         "name": "Studio Garden",
-        "description": "A cozy studio overlooking the courtyard garden, with a kitchenette and a terrace for morning coffee.",
+        "description": "A cozy studio overlooking the complex's green grounds, with a kitchenette and a terrace for morning coffee.",
         "price": 95,
         "area": 32,
         "guests": 2,
@@ -72,7 +72,7 @@
       {
         "id": "suite",
         "name": "Executive Suite",
-        "description": "Apartment overlooking the dome of the Transfiguration Cathedral, with a spa bathroom and a dedicated workspace.",
+        "description": "Apartment with a panoramic sea view, a spa bathroom and a dedicated workspace.",
         "price": 210,
         "area": 72,
         "guests": 4,
@@ -97,7 +97,7 @@
       { "title": "Private Parking", "description": "Secure parking in the residence's inner courtyard" },
       { "title": "High-Speed Wi-Fi", "description": "Fiber internet up to 500 Mbps in every apartment" },
       { "title": "Breakfast in Room", "description": "Fresh pastries and local farm produce every morning" },
-      { "title": "Spa & Massage", "description": "Partner spa center a 5-minute walk away" },
+      { "title": "Outdoor Pool", "description": "Pool and sun-lounger lounge area on the grounds" },
       { "title": "Airport Transfer", "description": "We'll meet you and drive you in a comfortable car" },
       { "title": "Security", "description": "24-hour CCTV and on-site security" },
       { "title": "Pet Friendly", "description": "Your pets are welcome by prior arrangement" }
@@ -114,13 +114,13 @@
       {
         "name": "Marina K.",
         "origin": "Kyiv",
-        "text": "The best apartments I've stayed in in Odessa. Service level of a five-star hotel with the warmth of a home.",
+        "text": "The best apartments I've stayed in in Odessa. Sea view from the window and a pool downstairs — like a dream vacation.",
         "rating": 5
       },
       {
         "name": "Thomas R.",
         "origin": "Berlin",
-        "text": "Immaculate design, incredibly quiet despite being in the city center. The concierge team went above and beyond.",
+        "text": "Immaculate design, right on the seafront and incredibly quiet. The concierge team went above and beyond.",
         "rating": 5
       },
       {
@@ -133,9 +133,9 @@
   },
   "location": {
     "eyebrow": "Location",
-    "title": "In the heart of historic Odessa",
-    "text": "We're tucked in a quiet lane two minutes from Primorsky Boulevard and the Opera House, 350 meters from the beach — surrounded by the city's best restaurants, galleries and boutiques.",
-    "address": "10 Havanna St, Odessa, Ukraine",
+    "title": "Right on the seafront",
+    "text": "The complex sits on the first line of the sea, surrounded by a green park — with a private pool and a lounge area by the water. The promenade, beach and the coast's best restaurants are all nearby.",
+    "address": "Odessa, Ukraine",
     "mapCta": "Open in Google Maps"
   },
   "booking": {
@@ -162,11 +162,11 @@
     }
   },
   "footer": {
-    "tagline": "Quiet luxury in the heart of Odessa",
+    "tagline": "Luxury apartments on the seafront",
     "contactsTitle": "Contact",
     "phone": "+380 48 123 45 67",
     "email": "stay@greenwood-odessa.com",
-    "address": "10 Havanna St, Odessa, Ukraine",
+    "address": "Odessa, Ukraine",
     "linksTitle": "Navigation",
     "socialTitle": "Follow us",
     "rights": "© {year} Greenwood Apartments Odessa. All rights reserved."

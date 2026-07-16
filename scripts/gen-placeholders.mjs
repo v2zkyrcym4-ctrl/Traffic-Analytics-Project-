@@ -77,8 +77,9 @@ function write(path, options) {
 
 const base = "public/images";
 
-write(`${base}/hero.svg`, { w: 1920, h: 1080, label: "GREENWOOD APARTMENTS", sub: "PHOTO PLACEHOLDER — ODESSA", kind: "leaf", seed: 1 });
-write(`${base}/about.svg`, { w: 1200, h: 1400, label: "GREENWOOD", sub: "COURTYARD — PLACEHOLDER", kind: "arch", seed: 2 });
+// hero.jpg / about.webp / pool.jpg are real photos of the building — see README.
+// Room and gallery photos below are still placeholders until real interior
+// shots are supplied.
 
 const rooms = [
   { id: "studio", label: "STUDIO GARDEN", kind: "leaf" },
@@ -90,9 +91,7 @@ rooms.forEach((r, i) => {
   write(`${base}/rooms/${r.id}.svg`, { w: 1200, h: 900, label: r.label, sub: "PHOTO PLACEHOLDER", kind: r.kind, seed: 10 + i });
 });
 
-const galleryKinds = ["leaf", "bed", "arch", "wave", "sparkle", "leaf", "bed", "arch"];
-for (let i = 1; i <= 8; i++) {
-  write(`${base}/gallery/${i}.svg`, { w: 1000, h: 1250, label: "GREENWOOD", sub: `GALLERY · 0${i}`, kind: galleryKinds[i - 1], seed: 20 + i });
+const galleryKinds = ["wave", "sparkle", "leaf", "bed", "arch"];
+for (let i = 4; i <= 8; i++) {
+  write(`${base}/gallery/${i}.svg`, { w: 1000, h: 1250, label: "GREENWOOD", sub: `GALLERY · 0${i}`, kind: galleryKinds[i - 4], seed: 20 + i });
 }
-
-write(`${base}/location.svg`, { w: 1400, h: 900, label: "GREENWOOD ODESSA", sub: "LOCATION — PLACEHOLDER", kind: "wave", seed: 30 });

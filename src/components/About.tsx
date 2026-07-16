@@ -10,7 +10,7 @@ export function About() {
       <div className="grid grid-cols-1 items-center gap-14 lg:grid-cols-2">
         <div className="relative aspect-[6/7] w-full overflow-hidden rounded-3xl">
           <Image
-            src="/images/about.svg"
+            src="/images/about.webp"
             alt="Greenwood Apartments courtyard"
             fill
             className="object-cover"

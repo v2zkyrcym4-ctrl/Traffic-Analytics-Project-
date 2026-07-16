@@ -39,7 +39,7 @@ export function LocationSection() {
         <div className="overflow-hidden rounded-3xl shadow-sm ring-1 ring-forest-900/10">
           <iframe
             title="Greenwood Apartments Odessa map"
-            src="https://www.google.com/maps?q=Havanna+Street+10+Odessa+Ukraine&output=embed"
+            src="https://www.google.com/maps?q=Odessa+seafront+Ukraine&output=embed"
             className="h-[420px] w-full grayscale-[15%] lg:h-full"
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
